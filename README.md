@@ -24,3 +24,5 @@ Para imprimir en Python usamos `print()`
 def saludo ():
   print ("Hola clase")
 ```
+
+Este cambio resuelve la incidencia https://github.com/carlososwgucr/documentacion/issues/1
